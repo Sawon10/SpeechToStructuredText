@@ -1,0 +1,18 @@
+# Core LangChain ecosystem
+langgraph>=0.0.28
+langchain>=0.1.17
+langchain-openai>=0.1.6
+langchain-community>=0.0.27
+
+# LLM and audio processing
+openai>=1.14.3
+whisperx>=3.1
+pydub>=0.25.1
+
+# Utilities
+python-dotenv>=1.0.1
+pydantic>=2.7.1
+numpy>=1.26.4
+
+# Audio support (optional, for previewing or working with files)
+ffmpeg-python>=0.2.0
